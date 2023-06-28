@@ -1,0 +1,15 @@
+Q how to start:
+npm start
+
+Typescript Component Calss:
+    calll APi, def event handlers, business logic
+    if for comlex template->separate HTML templ file
+    css scoped in component 
+
+generate interface
+    housing-location.ts
+    -> add import Input ... in HousingLocation/housing-location.ts
+
+add router:
+    import { provideRouter } from '@angular/router' and all ,in main.ts
+    new app/routes.ts --> add to app.component.ts
